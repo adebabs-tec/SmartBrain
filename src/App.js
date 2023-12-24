@@ -3,7 +3,7 @@ import Logo from './components/Logo/Logo'
 import ImageLinkform from './components/ImageLinkForm/ImageLinkform'
 import Navigation from './components/Navigation/Navigation'
 import Rank from './components/Rank/Rank'
-import Particles from 'react-particles-js'
+import Particles from 'react-tsparticles'
 
 const particlesOptions = {
   particles: {
